@@ -46,4 +46,4 @@
 
 ## Code Configuration
 
-To configure the functional and Oracle Cloud Infrastructure components of this app refer the Github repo published [here](https://github.com/divbatra/dbloganalyzer)
+To configure the functional and Oracle Cloud Infrastructure components of this app refer the Github repository published [here](https://github.com/divbatra/dbloganalyzer)
