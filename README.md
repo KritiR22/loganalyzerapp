@@ -7,7 +7,7 @@
 -	Leverage the OCI Generative AI Services and generate output for the same.
 
 
-## Configuration
+## App Configuration
 
 1.	**Create web credentials**
 
@@ -42,5 +42,8 @@
 
     - To create and configure a REST endpoint in APEX, refer the documenttation [here](https://oracle-livelabs.github.io/apex/ai-vision-lab/workshops/tenancy/index.html?lab=3-integrate-oci-vision#Task1:ConfigureOCIVisionRESTAPIasRESTDataSource)
     - To enable the above configured endpoint in a specific page, refer the documentation [here](https://blogs.oracle.com/apex/post/automate-invoice-handling-by-integrating-your-oracle-apex-app-with-oci-document-understanding)
-   
 
+
+## Code Configuration
+
+To configure the functional and Oracle Cloud Infrastructure components of this app refer the Github repo published [here](https://github.com/divbatra/dbloganalyzer)
